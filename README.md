@@ -9,6 +9,10 @@
 ## **Passos para conclusão**
 1. :white_check_mark: Pensamento Computacional
 2. :white_check_mark: Introdução ao Git e ao GitHub
+3. :white_check_mark:Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+4. :white_check_mark: Linux: Introdução ao Sistema Operacional e Terminal
+5. :white_check_mark: Linux: Diretórios e Comandos Essenciais
+6. :white_check_mark: Linux: Fundamentos de Redes e Comandos Avançados
 ---
 ### **Links de referência**
 [Emojis](https://gist.github.com/rxaviers/7360908)\
