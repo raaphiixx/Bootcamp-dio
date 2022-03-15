@@ -13,7 +13,9 @@
 4. :white_check_mark: Linux: Introdução ao Sistema Operacional e Terminal
 5. :white_check_mark: Linux: Diretórios e Comandos Essenciais
 6. :white_check_mark: Linux: Fundamentos de Redes e Comandos Avançados
+7. :white_check_mark: Linux: Gerenciamento de Pacotes
 ---
 ### **Links de referência**
 [Emojis](https://gist.github.com/rxaviers/7360908)\
-[Guia MarkDown](https://www.markdownguide.org/basic-syntax/)
+[Guia MarkDown](https://www.markdownguide.org/basic-syntax/)\
+[Guia Linux](https://github.com/LucasHe4rt/linux4noobs)
