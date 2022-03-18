@@ -14,6 +14,8 @@
 5. :white_check_mark: Linux: Diretórios e Comandos Essenciais
 6. :white_check_mark: Linux: Fundamentos de Redes e Comandos Avançados
 7. :white_check_mark: Linux: Gerenciamento de Pacotes
+8. :white_check_mark: Linux: Controle de Usuários e (Des)Compactação de Arquivos
+9. :white_check_mark: Introdução à programação com Python
 ---
 ### **Links de referência**
 [Emojis](https://gist.github.com/rxaviers/7360908)\
