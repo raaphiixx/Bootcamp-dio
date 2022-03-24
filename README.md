@@ -16,6 +16,14 @@
 7. :white_check_mark: Linux: Gerenciamento de Pacotes
 8. :white_check_mark: Linux: Controle de Usuários e (Des)Compactação de Arquivos
 9. :white_check_mark: Introdução à programação com Python
+10. :white_check_mark: Princípios de Pensamento Computacional com Python
+11. :white_check_mark: Segurança da informação com Python
+
+
+---
+## **Guias**
+[MarkDown](https://github.com/raaphiixx/Bootcamp-dio/tree/master/Guias/markdown)
+
 ---
 ### **Links de referência**
 [Emojis](https://gist.github.com/rxaviers/7360908)\
