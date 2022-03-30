@@ -1,5 +1,6 @@
 # 📑 Guia Rápido sobre MARKDOWN 📑
 ---
+
 ## O que é Markdown?
 Markdown é uma linguagem de marcação, utilizada para formatar texto textos simples. Sua extensão é o .md
 
@@ -16,10 +17,12 @@ Existem algumas ferramentas online que possibilitam a criação de arquivos e o 
 
 Porém também é possivel fazer o download de algumas ferramentas para criar seu arquivo, algumas dessas ferramentas já podem até fazer parte do seu cotidiano.
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
+  - **TUTORIAL PARA WINDOWS**
   - Dentro programa, vá na aba plugins, gerenciador de plugins, na aba disponíveis procure por Markdown e instale a extensão **MarkdownViewer++** .
   - Após a instalação reinicie a aplicação e crie seu arquivo .md, vá na aba plugins e lá estará habilitada a opção MarkdownViewer++ (CTRL+SHIFT+M), agora será possível criar seu arquivo e ver exatamente como está ficando.
   - 
 - [VisualStudioCode](https://code.visualstudio.com/)
+  - **TUTORIAL WINDOWS / LINUX**
   - Dentro da aplicação, vá na aba extensões, busque por **Markdown All in One**, instale e reinicie a aplicação
   - Após este procedimento, crie ou edite seu arquivo .md, para ver o resultado pressione CTRL+SHIFT+V e o preview do arquivo será aberto.
 
@@ -35,12 +38,12 @@ Porém também é possivel fazer o download de algumas ferramentas para criar se
 ## **Comentários**
 Os comentários são uma parte importante de toda linguagem, seja ela de marcação ou de programação, pois é apartir deles que podemos deixar pequenas instruções sobre algum trecho para quem vai utilizar o código ~~(ou até lembrarmos o que fizemos)~~.
 
-### Input / Entrada:   
+### Input / Entrada:
 ```
 [O comentário fica entre colchetes, logo após adiciona-se os dois pontos e finalizado com o # no final]: # 
 ```
 [Easter Egg, linha oculta]: # 
- 
+
 ## **Titulo**
 Em todo texto é necessário que se utilizem titulos, sejam eles maiores ou menores, o Markdown fornece diversos tamanhos de títulos para serem utilizados, cada # aumenta mais o tamanho do título, tendo até 6 opções de escolha, troque o valor por um número entre 1 e 6. 
 
@@ -71,6 +74,21 @@ Isso é outro paragráfo
 Isso é um paragráfo
 
 Isso é outro paragráfo
+  
+## **Personalização:**
+Além do tamanho da fonte, é possível fazer algumas alterações na forma em que a fonte aparece, seja colocando-a em negrito ou em itálico.
+
+### Input / Entrada:
+```
+**Texto em negrito**
+
+*Texto em itálico*
+```
+### Output / Saída:
+
+**Texto em negrito**
+
+*Texto em itálico*
 
 ## **Links**
 Para inserir links o processo é mais simples do que parece, inserimos a referência e logo após a URL, vale ressaltar que nem a referência para os links e nem mesmo as URLS podem conter espaços.
@@ -94,6 +112,7 @@ Existem três formas de construir listas desordenadas e uma forma para listas or
 3. Terceiro item
 ```
 ## Output / Saída:
+
 1. Primeiro item
 2. Segundo item
 3. Terceiro item
@@ -123,6 +142,7 @@ Existem três formas de construir listas desordenadas e uma forma para listas or
 * Item
 ```
 ## Output / Saída:
+
 * Item
 * Item
 
@@ -132,6 +152,7 @@ Existem três formas de construir listas desordenadas e uma forma para listas or
 - Item
 ```
 ## Output / Saída:
+
 - Item
 - Item
 
@@ -141,6 +162,7 @@ Existem três formas de construir listas desordenadas e uma forma para listas or
 + Item
 ```
 ## Output / Saída:
+
 + Item
 + Item
 
@@ -154,6 +176,7 @@ Existem três formas de construir listas desordenadas e uma forma para listas or
   - Item interno
 ```
 ## Output / Saída:
+
 - Item
   - Item interno
   - Item interno

@@ -1,4 +1,4 @@
-# <center>:computer: BootCamp Cognizant :computer:<center>
+:computer: BootCamp Cognizant :computer:
 ---
 ## **Infos básicas**
 - Este é meu primeiro BootCamp :white_check_mark: 
@@ -18,7 +18,10 @@
 9. :white_check_mark: Introdução à programação com Python
 10. :white_check_mark: Princípios de Pensamento Computacional com Python
 11. :white_check_mark: Segurança da informação com Python
-
+12. :white_check_mark: Desafios iniicias em Python - Cognizant Data Cloud Engineer #2
+13. :white_check_mark: MySql - Trabalhando com as suas primeiras tabelas
+14. :white_check_mark: MySql - Explorando relacionamentos com workbench
+15. :white_check_mark: MySql - Consultas com Join
 
 ---
 ## **Guias**
