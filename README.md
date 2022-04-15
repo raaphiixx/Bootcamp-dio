@@ -22,6 +22,9 @@
 13. :white_check_mark: MySql - Trabalhando com as suas primeiras tabelas
 14. :white_check_mark: MySql - Explorando relacionamentos com workbench
 15. :white_check_mark: MySql - Consultas com Join
+16. :white_check_mark: Imagem do bootcamp MySql - Como modelar um banco de controle de séries assistidas
+17. :white_check_mark: Imagem do bootcamp Introdução ao MongoDB e Bancos de Dados NoSQL
+18. :white_check_mark: Explorando o poder do NoSQL com Cassandra e HBase
 
 ---
 ## **Guias**

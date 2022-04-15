@@ -1,0 +1,23 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.buttontop{
+    background-color: #FFD700;
+    color: black;
+    height: 12vh;
+    width: 20vw;
+    font-size: 1em;
+    transition: 0.5s;
+    margin-top: 20%;
+    text-decoration: none;
+}
+.buttontop:hover{
+    background-color:#2f4858;
+    border: solid 1px #FFD700;
+    color: white;
+}
+.colorlink{
+    color: #FFD700;
+}

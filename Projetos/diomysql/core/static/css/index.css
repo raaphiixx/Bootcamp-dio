@@ -1,0 +1,63 @@
+body{
+    background-color: #000000;
+
+}
+.father{
+    background-image: linear-gradient(to left bottom, #660000, #680012, #69001d, #680228, #660a32);
+    color: #ffffff;
+    width: 80vw;
+    height: 85vh;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 18px;
+}
+.carousel-div{
+    height: 70vh;
+    width: 25vw;
+    color: black;
+}
+.img-carousel{
+    height: 70vh;
+    border-radius: 8%;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+}
+.button-links{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 25vw;
+    height: 60vh;
+}
+.allbuttons{
+    background-color: #FFD700;
+    color: black;
+    border: solid 1px #B22222;
+    border-radius: 14px;
+    height: 12vh;
+    font-size: 1.5em;
+    transition: 0.5s;
+    margin-top: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.allbuttons:hover{
+    background-color:#2f4858;
+    border: solid 1px #2f4858;
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+  .destaque {
+    display: none;
+  }
+  .button-links{
+    width: 100vw;
+    display: block;
+    margin-right: 12%
+  }
+}
