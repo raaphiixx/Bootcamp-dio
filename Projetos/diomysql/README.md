@@ -42,7 +42,7 @@ Pronto, todos os pacotes estão instalados no seu ambiente.
 
 3. Hora de começar as alterações nos arquivos
 
-Dentro do diretório ```diomysql``` teremos um arquivo chamado ```settings.py``` nele estão contidas todas as configurações do projeto.
+Dentro do diretório ```diomysql\diomysql``` teremos um arquivo chamado ```settings.py``` nele estão contidas todas as configurações do projeto.
 
 **Mudanças no arquivo settings.py:**
 
