@@ -28,10 +28,12 @@
 
 ---
 ## **Guias**
-[MarkDown](https://github.com/raaphiixx/Bootcamp-dio/tree/master/Guias/markdown)
+[MarkDown](https://github.com/raaphiixx/Bootcamp-dio/tree/master/Guias/markdown)\
+[Django MySQL](https://github.com/raaphiixx/Bootcamp-dio/tree/master/Projetos/diomysql)
 
 ---
 ### **Links de referência**
 [Emojis](https://gist.github.com/rxaviers/7360908)\
 [Guia MarkDown](https://www.markdownguide.org/basic-syntax/)\
 [Guia Linux](https://github.com/LucasHe4rt/linux4noobs)
+[Documentação Django](https://www.djangoproject.com/)
