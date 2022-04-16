@@ -88,7 +88,7 @@ Pronto, informações salvas, seu servidor já está funcionando.
 Quando executado, serão feitas algumas perguntas para configurar o usuário administrativo, basta completar as informações requisitadas e pronto já poderá acessar o painel administrativo.
 
 ## ROTAS:
-**/root/** <- Painel administrativo
-**/movies** <- Página com os filmes
-**/books** <- Página com os livros
+**/root/** <- Painel administrativo\
+**/movies** <- Página com os filmes\
+**/books** <- Página com os livros\
 **/series** <- Página com os series
